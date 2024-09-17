@@ -5,23 +5,23 @@ Use the print() function with single or double quotes to output text. Right-clic
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss1.PNG)
 
 ## lesson-2
-
+Here use 4 variable they are "product_name, price, expiry_date, and discount_available" where product_name is string type, price is integer type, expiry_date is interger type, and discount_available is boolean type
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss2.PNG?raw=true)
 
 ## lesson-3
-
+Take input from user by input() function.
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss3.PNG?raw=true)
 
 ## lesson-4
-
+We are going to write a program that will ask the temperature in Celsius and will convert it to Fahrenheit.
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss4.PNG?raw=true)
 
 ## lesson-5
-
+Demonstrates storing and printing a string,Shows how to use square brackets to access specific characters in a string, starting from index 0.
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss5.PNG?raw=true)
 
 ## lesson-6
-
+Formatted strings in Python, explaining their usefulness for dynamically generating text using variables.
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss6.PNG?raw=true)
 
 ## lesson-7
