@@ -60,11 +60,11 @@
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss14.PNG?raw=true)
 
 ## lesson-15
-
+### To print all of element of array use for in loop.
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss15.PNG?raw=true)
 
 ## lesson-16
-
+### A nested loop is a loop inside another loop, useful for tasks like going through lists within lists or grids of data
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss16.PNG?raw=true)
 
 ## lesson-17
