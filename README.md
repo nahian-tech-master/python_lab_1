@@ -17,11 +17,11 @@ We are going to write a program that will ask the temperature in Celsius and wil
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss4.PNG?raw=true)
 
 ## lesson-5
-Demonstrates storing and printing a string,Shows how to use square brackets to access specific characters in a string, starting from index 0.
+Print a string , print a particular part or word from string by using index.
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss5.PNG?raw=true)
 
 ## lesson-6
-Formatted strings in Python, explaining their usefulness for dynamically generating text using variables.
+
 ![image alt](https://github.com/nahian-tech-master/python_lab_1/blob/main/pyhon%20lab%201/ss6.PNG?raw=true)
 
 ## lesson-7
